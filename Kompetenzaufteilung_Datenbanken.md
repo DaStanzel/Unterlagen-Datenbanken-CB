@@ -2,16 +2,30 @@
 ## Datenmodellierung
 In dieser Kompetenz werden die Themen ERD, Relationenmodell, Normalformen und Grundlagen der Datenbanken und deren Begriffe behandelt.
 ### Tag 1
-| Art | Material |
-|-------|--------- |
-| Vortrag und Diskussion | Foliensatz DB01 |  
-| Vortrag und Diskussion | Foliensatz DB02 |
-| Übung | Übung SchoolERM |
+<table>
+ <tr>
+    <th>Art</th>
+    <th>Material</th>
+ </tr>
+ <tr>
+    <td>Vortrag und Diskussion</td>
+    <td>Foliensatz DB01</td>
+ </tr>
+ <tr>
+    <td>Vortrag und Diskussion</td>
+    <td>Foliensatz DB02</td>
+ </tr>
+ <tr>
+    <td>Übung</td>
+    <td>SchoolERM</td>
+ </tr>
+</table>
 
 ### Tag 2
-| Art | Material |
-|-------|--------- |
-| Übung | Übung HotelERM |  
+
+| Art     | Material     |
+| :------------- | :------------- |
+| Übung     | HotelERM       |
 | Übung | Übung LibraryERM |
 
 ### Tag 3
@@ -31,6 +45,7 @@ Kompetenzcheck in diesem Kapitel ist der Database Test aus den bestehenden Übun
 
 ## SQL 1
 In dieser Kompetenz behandeln die TN die Grundlagen von SQL (create, select, update, delete, alter).
+
 ### Tag 1
 | Art | Material |
 |-------|--------- |
@@ -56,6 +71,7 @@ In dieser Kompetenz behandeln die TN die Grundlagen von SQL (create, select, upd
 |-------|--------- |
 | Self-Learning | Alter Table |  
 | Übung | Ändern von bisherigen Tabellenstrukturen |
+
 ### Tag 5 (Kompetenzcheck)
 Kompetenzcheck in diesem Kapitel ist die SQLUebung1 aus den bisherigen Übungen
 
