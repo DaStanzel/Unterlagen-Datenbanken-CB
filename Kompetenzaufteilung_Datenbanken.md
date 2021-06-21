@@ -71,6 +71,7 @@ In dieser Kompetenz behandeln die TN die Grundlagen von SQL (create, select, upd
 |-------|--------- |
 | Self-Learning | Alter Table |  
 | Übung | Ändern von bisherigen Tabellenstrukturen |
+| Übung | Übung SQLUebung2 |
 
 ### Tag 5 (Kompetenzcheck)
 Kompetenzcheck in diesem Kapitel ist die SQLUebung1 aus den bisherigen Übungen
@@ -81,10 +82,60 @@ In dieser Kompetenz behandeln die TN die Themen Subselect, Joins und Gruppenfunk
 | Art | Material |
 |-------|--------- |
 | Self-Learning | SQL_Gruppenfunktionen |
-| Übung | Übung Airways ERM inklusive Create Table |
+| Übung | Übung SQLUebung3 |
+| Übung | Übung SQLUebung4 |
+| Übung | Übung SQLUebung5 |
 
 ### Tag 2
 | Art | Material |
 |-------|--------- |
-| Vortrag und Diskussion bzw. Self-Learning | SQL_1_Grundlagen |  
-| Übung | Übung AirwaysERM insert data und delete data |
+| Self-Learning | Subselect |
+| Übung | Übung SQLUebung6 |
+| Übung | Übung SQLUebung7 |
+| Übung | Übung SQLUebung8 |
+
+### Tag 3
+| Art | Material |
+|-------|--------- |
+| Self-Learning | Joins |
+| Übung | Übung SQLUebung6 mit Joins|
+| Übung | Übung SQLUebung7 mit Joins |
+| Übung | Übung SQLUebung8 mit Joins |
+
+### Tag  4
+| Art | Material |
+|-------|--------- |
+| Self-Learning | Transaktionen |
+| Übung | Übung SQLUebung10 |
+| Übung | Übung SQLUebung9 |
+
+### Tag 5
+Kompetenzcheck in diesem Kapitel ist die Joins Übung mit Subselects und Joins zu lösen (Jedes Beispiel mit beiden Methoden)
+
+## Allgemeine Datenbanken
+### Tag 1
+| Art | Material |
+|-------|--------- |
+| Self-Learning | Unterschiede Finden und Dokumentieren |
+| Übung und Präsentation | Präsentation auf Englisch über die Unterschiede |
+
+### Tag 2
+| Art | Material |
+|-------|--------- |
+| Self-Learning | Verteilte DBMS |
+| Übung | Modelliere eine Supermarktkette mit Verteilungskonzept |
+
+### Tag 3
+| Art | Material |
+|-------|--------- |
+| Self-Learning | Arten von DBMS |
+| Übung und Präsentation | Präsentation auf Englisch über ein beliebiges DBMS |
+
+### Tag 4
+| Art | Material |
+|-------|--------- |
+| Self-Learning | Interner Aufbau von Datenbanken |
+| Ausarbeitung | Wie ist eine Datenbank aufgebaut und warum braucht ein SWE diese Information? |
+
+## Tag 5
+Kompetenzcheck ist die Ausarbeitung bzw. die Präsentationen vorzustellen.
