@@ -1,14 +1,14 @@
 --2
-select deptno, dname as Abteilungsname, loc from dept;
+select DEPTNO, DNAME as ABTEILUNGSNAME, LOC from DEPT;
 --3
-select empno, ename, to_char(hiredate,'DD. Month YYYY') from emp;
+select EMPNO, ENAME, TO_CHAR(HIREDATE,'DD. Month YYYY') from EMP;
 --4
-select ename,  trunc(sysdate) - hiredate as tage from emp;
+select ENAME,  trunc(SYSDATE) - HIREDATE as TAGE from EMP;
 --5
-select distinct job from emp;
+select distinct job from EMP;
 --6
-select min(sal),max(sal),avg(sal) from emp;
+select min(SAL),max(SAL),avg(SAL) from EMP;
 --7
-select count(*) from emp;
+select count(*) from EMP;
 --8
-select count(distinct job) from emp;
+select count(distinct job) from EMP;
