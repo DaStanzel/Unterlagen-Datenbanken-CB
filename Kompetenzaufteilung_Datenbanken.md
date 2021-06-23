@@ -113,15 +113,7 @@ In dieser Kompetenz behandeln die TN die Themen Subselect, Joins und Gruppenfunk
 | Übung | Übung SQLUebung7 mit Joins |
 | Übung | Übung SQLUebung8 mit Joins |
 
-### Tag  4
-
-| Art     | Material     |
-| :------------- | :------------- |
-| Self-Learning | Transaktionen |
-| Übung | Übung SQLUebung10 |
-| Übung | Übung SQLUebung9 |
-
-### Tag 5
+### Tag 3 Ende oder Tag 4
 Kompetenzcheck in diesem Kapitel ist die Joins Übung mit Subselects und Joins zu lösen (Jedes Beispiel mit beiden Methoden)
 
 ## Allgemeine Datenbanken
@@ -129,8 +121,9 @@ Kompetenzcheck in diesem Kapitel ist die Joins Übung mit Subselects und Joins z
 
 | Art     | Material     |
 | :------------- | :------------- |
-| Self-Learning | Unterschiede Finden und Dokumentieren |
-| Übung und Präsentation | Präsentation auf Englisch über die Unterschiede |
+| Self-Learning | Transaktionen |
+| Übung | Übung SQLUebung10 |
+| Übung | Übung SQLUebung9 |
 
 ### Tag 2
 
